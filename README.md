@@ -1,4 +1,4 @@
-So this is a project im working on to replicate the functionality of streamlabs Labels software but with streamelements as a data source (and possibly others while im at it), I also want to make it a plugin.
+So this is a project im working on to replicate the functionality of streamlabs Labels software but with streamelements as a data source (and possibly others while im at it), I also want to make it an obs plugin (yeah spain without the s).
 
 
 As of right now usage is as such:
